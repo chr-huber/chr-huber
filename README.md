@@ -1,6 +1,6 @@
 # Hi 👋 I am Christoph
 
-* **Assistant Professor of Finance** at [Aalto University, Department of Finance](https://www.aalto.fi/en/department-of-finance/)
+* **Assistant Professor of Finance** at [Aalto University](https://www.aalto.fi/en/department-of-finance/)
 
 ## 
 
