@@ -4,7 +4,7 @@
 
 ## 
 
-* **Habilitation (venia docendi)** at [WU Vienna](https://www.wu.ac.at/economics)
+* **Habilitation** (*venia docendi*) at [WU Vienna](https://www.wu.ac.at/economics)
 * **PhD** at [University of Innsbruck, Department of Banking and Finance](https://uibk.ac.at/ibf) 
 
 ## 
