@@ -1,4 +1,8 @@
-# Hi 👋 I am Christoph
+# Hi 👋 
+
+### About me
+
+Christoph Huber
 
 * **Assistant Professor of Finance** at [Aalto University](https://www.aalto.fi/en/department-of-finance/)
 
