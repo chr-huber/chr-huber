@@ -8,11 +8,6 @@ Christoph Huber
 
 ## 
 
-* **Habilitation** (*venia docendi*) at [WU Vienna](https://www.wu.ac.at/economics)
-* **PhD** at [University of Innsbruck](https://www.uibk.ac.at/en/ibf/) 
-
-## 
-
 - Financial decision-making and investor behavior
 - Belief formation, market efficiency, and ethical decision-making in finance
 - Transparency, replicability, and open science 
